@@ -22,7 +22,7 @@ The notebook is designed to work with activity logs typically available in insid
 * Device usage patterns
 * User and system metadata
 
-> 💡 **Note**: The dataset is assumed to be pre-loaded or downloaded externally due to potential license restrictions on CERT data.
+
 
 ---
 
