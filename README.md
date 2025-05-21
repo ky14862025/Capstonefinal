@@ -55,12 +55,12 @@ The notebook is designed to work with activity logs typically available in insid
 
 4. **Model Development**
 
-   * Classification models (e.g., Random Forest, Logistic Regression) are trained to identify risky behavior
-   * Evaluation using metrics like accuracy, precision, recall, and F1-score
+   * Classification models (e.g., isolation forest) are trained to identify risky behavior
+    
 
 5. **Prediction & Evaluation**
 
-   * Model tested on unseen data
+   * Model tested on CERT synthetic data
    * Potential output includes threat classifications or risk scores
 
 ---
